@@ -6,7 +6,7 @@ This project is based on the concepts of data conceilment and encryption. It was
 
 ![alt text](https://i.ibb.co/d4XkK04/Screenshot-2023-07-07-024117.jpg)
 
-# Tauri + React
+# React
 
 This template should help get you started developing with Tauri and React in Vite.
 
